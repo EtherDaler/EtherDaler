@@ -167,29 +167,6 @@ A custom interpreter for the LOLCODE programming language.
 
 ---
 
-# 🧰 Philosophy
-
-```text
-Build things that are interesting.
-Understand how they work.
-Make them fast.
-Then make them useful.
-```
-
----
-
-# 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtherDaler&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtherDaler&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   <b>Research · Build · Measure · Improve</b>
 </p>
